@@ -131,3 +131,15 @@ List all users: `SELECT User,Host FROM mysql.user;`
 Create new user: `CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';`
 
 Grant `ALL` access to user for `*` tables: `GRANT ALL ON database.* TO 'user'@'localhost';`
+
+Mysql command: 
+![alt text][command]
+
+[command]: http://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-Cheat-Sheet-2.png "Mysql command line"
+
+Mysql Join: 
+![alt text][mysql]
+
+[mysql]: https://i.pinimg.com/originals/80/e8/e3/80e8e3a3bfa6614f975043ca19187867.png "Mysql join types"
+
+
