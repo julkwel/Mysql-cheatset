@@ -1,5 +1,5 @@
-# Mysql-cheatset
-Mysql cheatset command
+# Mysql-cheatsheet
+Mysql cheatsheet command
 Inspired by @hofmannsven command
 ________
 Commands
